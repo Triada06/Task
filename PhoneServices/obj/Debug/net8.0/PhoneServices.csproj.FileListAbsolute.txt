@@ -1,0 +1,15 @@
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\bin\Debug\net8.0\PhoneServices.exe
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\bin\Debug\net8.0\PhoneServices.deps.json
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\bin\Debug\net8.0\PhoneServices.runtimeconfig.json
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\bin\Debug\net8.0\PhoneServices.dll
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\bin\Debug\net8.0\PhoneServices.pdb
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.AssemblyInfoInputs.cache
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.AssemblyInfo.cs
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.csproj.CoreCompileInputs.cache
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.dll
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\refint\PhoneServices.dll
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.pdb
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.genruntimeconfig.cache
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\ref\PhoneServices.dll
+C:\Users\nizam\Documents\C#\PhoneServices\PhoneServices\obj\Debug\net8.0\PhoneServices.sourcelink.json

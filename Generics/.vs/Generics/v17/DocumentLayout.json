@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\repositories\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\repositories\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|solutionrelative:service\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\repositories\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D673006-4844-4147-A193-09C212BB3ACF}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|solutionrelative:service\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|c:\\users\\nizam\\documents\\c#\\phoneservices\\generics\\service\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08B9579-99B1-4BF0-BC46-897678F62D94}|Service\\Service.csproj|solutionrelative:service\\services\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:13:04.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:09:21.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\StudentService.cs",
+              "RelativeToolTip": "Service\\Services\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:58:58.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\Interfaces\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\Interfaces\\IStudentService.cs",
+              "RelativeToolTip": "Service\\Services\\Interfaces\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:58:32.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:49:08.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:51:16.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repositories\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Repositories\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T12:55:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\nizam\\Documents\\C#\\PhoneServices\\Generics\\Service\\Services\\BookService.cs",
+              "RelativeToolTip": "Service\\Services\\BookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:12:41.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
